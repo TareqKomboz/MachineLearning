@@ -1,1 +1,1 @@
-# MachineLearning Assignments at the University of Stuttgart
+# Implementations of Machine Learning Assignments, University of Stuttgart
